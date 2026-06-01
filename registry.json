@@ -1,6 +1,14 @@
-{
-  "id": "fetchflow",
-  "repoOwner": "Oxy720",
-  "repoName": "fetchflow",
-  "repoPath": ""
-}
+[
+  {
+    "id": "mold",
+    "name": "MOLD",
+    "shortDesc": "Folder template creator for Premiere Pro",
+    "fullDesc": "MOLD lets you create and apply reusable folder structure templates inside Adobe Premiere Pro, keeping your projects organized effortlessly.",
+    "features": ["Create reusable folder templates", "Apply templates to any project", "Premiere Pro panel integration"],
+    "tags": ["folders", "templates", "organization", "project"],
+    "version": "1.0.0",
+    "repoOwner": "Oxy720",
+    "repoName": "mold",
+    "repoPath": ""
+  }
+]
