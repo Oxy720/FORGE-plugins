@@ -9,6 +9,11 @@
     "version": "1.0.0",
     "repoOwner": "Oxy720",
     "repoName": "mold",
-    "repoPath": ""
+    "files": [
+      "index.html",
+      "README.md",
+      "CSXS/manifest.xml",
+      "jsx/host.jsx"
+    ]
   }
 ]
