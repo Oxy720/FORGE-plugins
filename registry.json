@@ -15,5 +15,28 @@
       "CSXS/manifest.xml",
       "jsx/host.jsx"
     ]
+  },
+  {
+    "id": "deepduplicate",
+    "name": "Deep Duplicate",
+    "shortDesc": "True nested sequence cloning for Premiere Pro",
+    "fullDesc": "Deep Duplicate clones sequences properly — including all nested sequences inside them. Each clone is fully independent, with nested sequences auto re-linked. No more manually re-linking after duplicating.",
+    "features": [
+      "Clone active sequence with all its nested sequences",
+      "Clone all sequences in the project at once",
+      "Add a custom suffix to all cloned sequences",
+      "Fully independent clones — edits don't affect the original"
+    ],
+    "tags": ["sequences", "duplicate", "clone", "nested", "workflow"],
+    "version": "1.0.0",
+    "repoOwner": "Oxy720",
+    "repoName": "DeepDuplicate",
+    "files": [
+      "index.html",
+      "README.md",
+      "CSXS/manifest.xml",
+      "jsx/host.jsx",
+      "lib/CSInterface.js"
+    ]
   }
 ]
